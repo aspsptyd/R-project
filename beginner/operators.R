@@ -6,3 +6,10 @@ x <- 15
 c <- 15
 result <- x + c
 print(result)
+
+# Output
+# > x <- 15
+# > c <- 15
+# > result <- x + c
+# > print(result)
+# [1] 30
